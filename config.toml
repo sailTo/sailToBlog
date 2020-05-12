@@ -10,7 +10,6 @@ canonifyurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-publishDir = "docs"
 
 [params]
     author = "Sailor"
