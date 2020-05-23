@@ -1,2 +1,0 @@
-# sailToBlog
-Blog things sync
